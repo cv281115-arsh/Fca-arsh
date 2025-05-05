@@ -69,8 +69,9 @@ export var types: {
     'onload-script': (StringConstructor | null)[];
     only: (string | null)[];
     optional: BooleanConstructor;
-    'package-lock': BooleanConstructor;
     otp: (StringConstructor | null)[];
+    'pack-destination': StringConstructor;
+    'package-lock': BooleanConstructor;
     'package-lock-only': BooleanConstructor;
     parseable: BooleanConstructor;
     'prefer-offline': BooleanConstructor;

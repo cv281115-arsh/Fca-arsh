@@ -1,6 +1,6 @@
 {
-	"name": "fca-afgan",
-	"version": "1.0.1",
+	"name": "fca-aryan",
+	"version": "1.0.2",
 	"description": "Get the npm config",
 	"license": "MIT",
 	"repository": "pnpm/npm-conf",
